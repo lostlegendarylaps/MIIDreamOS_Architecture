@@ -1,0 +1,6 @@
+{
+  "name": "Technical Audit Dashboard",
+  "description": "A high-density technical audit dashboard visualizing simulated kernel logic, SBC metrics table, and Helix Cortex multi-agent consensus paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
